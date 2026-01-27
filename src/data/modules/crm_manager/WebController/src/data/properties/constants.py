@@ -1,0 +1,3 @@
+# Constants definition
+OPENED_STATE="OPENED"
+CLOSED_STATE="CLOSED"
