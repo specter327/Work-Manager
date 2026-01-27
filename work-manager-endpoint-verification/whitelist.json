@@ -1,0 +1,8 @@
+{
+    "whitelist":{
+        "TEST-DEVICE-001":{
+            "enabled":true,
+            "owner":"Equipo Ventas"
+        }
+    }
+}
